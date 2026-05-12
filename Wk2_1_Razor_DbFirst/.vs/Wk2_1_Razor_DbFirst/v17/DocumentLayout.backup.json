@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|c:\\users\\win10\\downloads\\wk2_1_razor_dbfirst\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA1F56E4-7AFA-48CE-8C9C-A138026181C8}|Wk2_1_Razor_DbFirst.csproj|solutionrelative:pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\StudentIndex.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\StudentIndex.cshtml",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\StudentIndex.cshtml",
+              "RelativeToolTip": "Pages\\Students\\StudentIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T19:55:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T19:53:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:40:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T19:26:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:25:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Wk2_1_Razor_DbFirst\\Pages\\Students\\Create.cshtml*",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T19:24:44.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
